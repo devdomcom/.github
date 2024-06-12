@@ -1,1 +1,1 @@
-# .github
+Default templates for Devdom.
